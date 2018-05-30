@@ -176,7 +176,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   margin-bottom: 30px;
   font-size: 48px;
-  font-weight: 700;
+  font-weight: 400;
+  padding:0 2em;
 }
 
 @media (max-width: 768px) {
